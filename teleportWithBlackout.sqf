@@ -5,7 +5,7 @@
  * Change _target to the name of the object to teleport players to.
  * The `2` and `1` values for the waitAndExecute functions is the delay in seconds.
  *
- * Can be placed into an object's init box in Eden.
+ * Can be placed into an object's init box in Eden. Copy everything below the `*/`
  */
 
 this addAction ["Open Door", {
